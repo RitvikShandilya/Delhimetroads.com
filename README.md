@@ -1,4 +1,4 @@
-# Delhimetroads.com (Server side rendered)
+# Delhimetroads.com (Server Side Rendered)
 
 ## Authors
 
