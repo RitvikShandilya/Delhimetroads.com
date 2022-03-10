@@ -7,7 +7,7 @@ export default {
     titleTemplate: '%s - dmrc',
     title: 'dmrc',
     script: [
-      {src: `https://maps.googleapis.com/maps/api/js?key=AIzaSyCFXXxalq1XvGYfa6BVNjq9aXNbklZ14sM`}
+      {src: `https://maps.googleapis.com/maps/api/js?key=`}
     ],
     htmlAttrs: {
       lang: 'en'
