@@ -1,4 +1,4 @@
-# [Delhimetroads.com](delhimetroads.com) (Server Side Rendered Nuxt.js)
+# [Delhimetroads.com](delhimetroads.com) (Server Side Rendered - Nuxt.js)
 
 ## Authors
 
